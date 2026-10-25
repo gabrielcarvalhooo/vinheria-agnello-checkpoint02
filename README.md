@@ -10,3 +10,5 @@ O projeto utiliza JavaScript para praticar conceitos de funções, reutilizaçã
 - Jackson André da Costa Silva
 - Thiago Chazan Haddad
 - Matheus Amorim de Paiva Mendes
+## Git Pages
+https://gabrielcarvalhooo.github.io/vinheria-agnello-checkpoint02/
